@@ -1,3 +1,7 @@
+[![NPM](https://nodei.co/npm/get-suggestions.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/get-suggestions/)
+
+[![Build Status](https://travis-ci.org/raitucarp/get-suggestions.svg?branch=master)](https://travis-ci.org/raitucarp/get-suggestions)
+
 # Introduction
 
 Get Google suggestion with 1 level deep (a-z, 0-9) with es6 promise. For example, with gardening as a keyword, it will fetch suggestions for:
