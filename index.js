@@ -49,7 +49,10 @@ class Suggestion {
             url, qs,
             headers: {
                 'User-Agent': this._userAgent,
-                'X-Chrome-UMA-Enabled': 1
+                'X-Chrome-UMA-Enabled': 1,
+                'hl': 'en',
+                'gl': 'us',
+                'num': 20
             },
             jar: true,
             json: true
