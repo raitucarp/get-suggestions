@@ -1,0 +1,28 @@
+{
+  "name": "get-suggestions",
+  "version": "1.0.0",
+  "description": "Just another get Google suggestions library",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raitucarp/get-suggestions"
+  },
+  "keywords": [
+    "suggestion"
+  ],
+  "author": "Ribhararnus Pracutiar",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "linkify-it": "^2.0.0",
+    "lodash": "^4.14.0",
+    "moment": "^2.14.1",
+    "nightmare": "^2.5.3"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
