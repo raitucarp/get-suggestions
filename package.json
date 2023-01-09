@@ -20,7 +20,7 @@
     "linkify-it": "^2.0.0",
     "lodash": "^4.14.0",
     "moment": "^2.14.1",
-    "nightmare": "^2.5.3"
+    "nightmare": "^3.0.2"
   },
   "devDependencies": {
     "ava": "^0.15.2"
